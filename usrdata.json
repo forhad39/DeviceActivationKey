@@ -13,8 +13,8 @@
     },
     {
         "device_id": "71c6d5211220b5bf",
-        "key": "Forhad12",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    }
+        "key": "Forhad",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
 ]
