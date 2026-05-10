@@ -2,7 +2,7 @@ import requests
 import time
 from datetime import datetime, timezone
 
-BASE_URL = "https://kingstarclub.sbs"
+BASE_URL = "https://kingstarclub.sbs/"
 
 def run(script):
     url = BASE_URL + script
