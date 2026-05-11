@@ -2,7 +2,7 @@ import requests
 import time
 from datetime import datetime, timezone
 
-BASE_URL = "https://kingstarclub.sbs/"
+BASE_URL = "https://109winclub.sbs/"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0"
