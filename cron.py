@@ -5,7 +5,7 @@ from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 from requests.exceptions import RequestException
 
-BASE_URL = "https://kingstarclub.sbs/"
+BASE_URL = "https://jaiclub70.sbs/"
 REQUEST_TIMEOUT = 15
 
 # Create persistent session
