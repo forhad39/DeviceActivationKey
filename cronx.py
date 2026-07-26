@@ -3,7 +3,7 @@ import time
 from datetime import datetime, timezone
 from requests.exceptions import RequestException
 
-BASE_URL = "https://jaiclub70.sbs/"
+BASE_URL = "https://royalbed.sbs"
 REQUEST_TIMEOUT = 10
 
 def run(script):
